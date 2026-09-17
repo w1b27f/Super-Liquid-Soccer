@@ -3,3 +3,6 @@
 
 # claude code files
 .claude/
+
+# firebase project selection
+.firebaserc
